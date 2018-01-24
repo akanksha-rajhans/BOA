@@ -1,4 +1,4 @@
-# Bank Of America Elevator Problem
+# Elevator Problem
 
 ###########
 # Team Info
